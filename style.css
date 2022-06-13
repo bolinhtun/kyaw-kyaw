@@ -1,0 +1,26 @@
+.inputType {
+    width: 300px;
+    margin-left: 400px;
+    margin-top: 30px;
+    border-radius: 20px;
+    border-color: aqua;
+    border-style: double;
+}
+
+.input2 {
+    width: 300px;
+    margin-left: 400px;
+    margin-top: 30px;
+    border-radius: 20px;
+    border-color: aqua;
+    border-style: double;
+}
+
+.text {
+    color: aqua;
+}
+
+.button {
+    margin-left: 500px;
+    margin-top: 50px;
+}
